@@ -51,4 +51,4 @@ const render = async (city = 'jerusalem') => {
 cities.forEach(function(city) {
   render(city);
 });
- 
+
