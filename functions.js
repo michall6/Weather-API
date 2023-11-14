@@ -1,4 +1,4 @@
-// Constants for API key and base URL
+// Constants for API key and base URL    
 const API_KEY = '8ee633956bad6ae1965b557a94ecfcba';
 const baseUrl = 'https://api.openweathermap.org/data/2.5';
 
@@ -59,3 +59,5 @@ const getIconSrc = (data) => {
 };
 
 export { getForcast, getIconSrc }; // Exporting the functions for external use
+
+
